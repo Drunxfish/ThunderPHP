@@ -1,4 +1,5 @@
 # 🌦 ThunderPHP - Weather App
+##### **Purpose: Getting to know REST-API**
 
 **ThunderPHP** is a clone of the *Weathron* weather app (built with Electron.js), now reimagined with PHP. It allows users to search for any city, country, or region and get the current day's weather. ThunderPHP provides a unique double-fetching approach: it first fetches weather data through a REST API in PHP, and then the data is fetched again on the JavaScript side for dynamic display. This seamless integration between PHP and JavaScript, along with a weather API, ensures a smooth and user-friendly interface for displaying real-time weather information.
 
