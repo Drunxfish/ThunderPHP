@@ -1,3 +1,11 @@
+```shell
+⚠️ Disclaimer
+This project was made long ago while I was practicing
+DOM manipulation and working with APIs.
+It may not follow best practices as it was mainly for learning purposes.
+Also do note that this webapp was first built in Electron.js, that is why it may not appear as amusing in the web ;P
+```
+
 # 🌦 ThunderPHP - Weather App
 ##### **Purpose: Getting to know REST-API**
 
