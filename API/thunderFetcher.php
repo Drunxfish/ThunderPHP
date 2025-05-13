@@ -12,7 +12,8 @@ if (empty($location)) {
 
 
 // API key and URL
-$APIKey = "###############################";  // Get your own API key <3 :P
+$env = parse_ini_file(__DIR__ . './../.env');
+$APIKEY = $env['API_KEY']; // Get your own API key <3 :P
 $APIUrl = "http://api.weatherapi.com/v1/current.json?key=$APIKey&q=$location";
 
 
